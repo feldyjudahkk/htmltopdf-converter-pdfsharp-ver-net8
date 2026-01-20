@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DinkToPdf" Version="1.0.8" />
     <PackageReference Include="HtmlRenderer.Core" Version="1.5.2" />
     <PackageReference Include="HtmlRenderer.PdfSharp" Version="1.5.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
